@@ -8,6 +8,8 @@ Pong Recreado es una implementación moderna del clásico juego Pong, desarrolla
 
 Para jugar solo ingresa en este [enlace](https://diegocastillovasquez.github.io/Pong-Recreado)
 
+![Captura del Pong](captura_1.png)
+
 ## Características
 
 - **Menú principal** con vista previa animada del juego
