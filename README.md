@@ -44,4 +44,5 @@ Los controles pueden modificarse en la pantalla de configuración antes de inici
 
 ## Notas de Desarrollo
 
-La vista previa en el menú principal funciona con un bucle de animación independiente que simula el gameplay.
+
+La vista previa en el menú principal funciona con un bucle de animación independiente que simula el juego.
